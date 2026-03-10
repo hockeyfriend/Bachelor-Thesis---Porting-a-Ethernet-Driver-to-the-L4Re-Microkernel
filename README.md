@@ -1,4 +1,6 @@
-# Abstract
+# Generic aspects of porting a Linux Ethernet driver to the L4Re microkernel
+
+## Abstract
 
 In safety-critical domains such as the automotive and aircraft industry, critical software
 that can endanger human life must be strictly isolated from non-critical software with
